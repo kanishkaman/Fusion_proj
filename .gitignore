@@ -1,5 +1,4 @@
 .venv/
-team/
 epi_r.csv
 models/__pycache__/
 __pycache__/
